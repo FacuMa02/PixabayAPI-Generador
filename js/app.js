@@ -154,4 +154,9 @@ function imprimirPaginador() {
 
     paginacionDiv.appendChild(boton);
   }
+
+  //funcion para detectar imagen
+  function detectarImagen(url) {
+    console.log(url);
+  }
 }
